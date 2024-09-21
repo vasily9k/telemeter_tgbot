@@ -1,0 +1,22 @@
+{
+  "name": "telemetr_tgbot",
+  "version": "0.3.5",
+  "description": "Telegram bot with telemetry",
+  "keywords": "esp32",
+  "authors":
+  [
+    {
+      "name": "Alexander Razzhivin",
+      "email": "kotyara12@yandex.ru",
+      "url": "https://kotyara12.ru"
+    },
+    {
+      "name": "Vasily Kuklin",
+      "email": "vasily9k@gmail.com",
+      "url": "https://github.com/vasily9k"
+    }
+  ],
+  "license": "MIT",
+  "frameworks": ["espidf"],
+  "platforms": ["espressif32"]
+}

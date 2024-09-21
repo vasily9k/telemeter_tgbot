@@ -1,0 +1,10 @@
+.pio
+.vscode
+config/**
+*.code-workspace
+*.log
+*.hidden
+*.public
+build/
+debug/
+**/secrets/**
